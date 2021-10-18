@@ -37,7 +37,7 @@ void bubble(int a[], int n)
 
 int main()
 {
-    int i, n, a[100];
+    int i,n, a[100];
     printf("Enter the size of array:\n");
     scanf("%d", &n);
     printf("Enter the element of the array:\n");
